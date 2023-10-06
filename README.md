@@ -9,17 +9,20 @@ Business Administration, BA; Marketing & Information Systems
 - Employed syndicated research and qualitative insights to identify a market need, design a mobile app-based platform, and introduce innovative features such as virtual wardrobe management, personalized style profiles, and virtual styling workshops to engage and empower young professionals in their fashion journey.
 - Successfully orchestrated multi-channel communication strategies, including inbound marketing tactics, a Campus Ambassador Program, and an interactive Wardrobe Workshop and Runway event to achieve increase in brand awareness among the target audience and reshaping perceptions of styling services as accessible and cost-effective tools for career success.
 
-  [Presentation:]()
-  [Presentation:]()
+  [Presentation I: 6 Cs and Audience Recommendation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
+  [Presentation:Go-To-Market Recommendations](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **Multicultural Marketing and Business Development - The Kee Group internship**
 - Led a cross-functional team of 9 professionals in assessing the real estate firm's strategy, conducting industry-wide analysis, and evaluating financial performance. Delivered actionable recommendations that enhanced the firm's competitiveness.
 - Championed the development of a comprehensive marketing plan aimed at increasing brand awareness across multiple channels. This involved identifying key differentiators, implementing automation strategies, and integrating a relocation strategy to align with the current business model.
 - Drove strategic initiatives to strengthen the firm's social media presence and expand market reach. Successfully built the firm's SME reputation on social media, identified target markets, and curated recommendations for technology improvements related to services and operations.
 
-  [Marketing Plan]()
-  [Presentation]()
-  [Written Report]()
+  [Marketing Plan](https://www.canva.com/design/DAFcvoUCALs/EVMSk_C4wTqNU9JtnXuZKQ/edit?utm_content=DAFcvoUCALs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
+  [Presentation](https://www.canva.com/design/DAFcvoUCALs/EVMSk_C4wTqNU9JtnXuZKQ/edit?utm_content=DAFcvoUCALs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  
+  [Written Report](https://www.canva.com/design/DAFcvoUCALs/EVMSk_C4wTqNU9JtnXuZKQ/edit?utm_content=DAFcvoUCALs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ### Information Systems Projects
 *Technical Skills Utilized: HTML, R Script, Python, MySQL*
@@ -45,6 +48,7 @@ Business Administration, BA; Marketing & Information Systems
 - Extracted valuable insights, such as city trends, seasonality patterns, ratings analysis, and the impact of property features on bookings, to help Airbnb understand revenue generation opportunities and enhance guest experiences.
 - Provided actionable recommendations, including informing hosts of seasonality trends, promoting non-seasonal activities through partnerships, and conducting due diligence on reviews to boost profitability and customer satisfaction.
   [Presentation](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
+
   [Report]()
 
 **Systems Analysis & Design - eBay Website Improvements**
@@ -58,6 +62,7 @@ Business Administration, BA; Marketing & Information Systems
 - Employed data preparation and linear regression techniques to identify key factors affecting Human Development Index (HDI) scores.
 - Recommended investment areas for philanthropic investors, including improving life expectancy, mean years of schooling, and reducing maternal mortality, based on data-driven insights.
   [Presentation](https://www.canva.com/design/DAFkcdUIdNM/Quw8sbqvtrAtnbyve8o77g/edit?utm_content=DAFkcdUIdNM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+
   [Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
 
 **Intro to Information Systems - Orion’s Place Mobile Application**
@@ -110,6 +115,8 @@ Business Administration, BA; Marketing & Information Systems
 - Conducted a comprehensive analysis to evaluate the viability of Colombia as a market for Walmart's entry.
 - Led the assessment of Colombia's economic, geographic, social, and political environments, providing insights into potential barriers to entry and growth opportunities for retail.
 - Advised a strategic 50:50 joint venture entry, contingent on resolving political, infrastructure, and financial instability, while highlighting Colombia's future growth potential.
+
+  [Report](https://docs.google.com/document/d/1EPczoSSXmQPmL0YEuLiK8aGizvNjzDSccqkQAlVKnng/edit?usp=sharing)
 
 **Leadership & Organizational Behavior - Starbucks Employee Retention Project**
 - Researched and assessed Starbucks, through primary and secondary research, identifying critical employee dissatisfaction issues.
