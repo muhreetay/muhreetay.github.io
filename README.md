@@ -2,6 +2,7 @@
 
 ### Education
 Business Administration, BA
+
 (Marketing & Information Systems)
 
 
