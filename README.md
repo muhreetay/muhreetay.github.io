@@ -4,16 +4,16 @@
 Business Administration, BA; Marketing & Information Systems
 
 ### Internship Work
-**Entrepreneurial Marketing - Glamhive Go-To-Market Strategy and Initial Tactics**
+**Startup Marketing Consultant Intern @ Glamhive Inc.**
 - Developed a strategic Go-to-Market Plan for Glamhive, a fashion-tech startup, targeting a niche demographic of young post-graduate females entering the corporate world in major cities, resulting in a clear positioning statement, comprehensive market analysis, and scalable growth strategy.
 - Employed syndicated research and qualitative insights to identify a market need, design a mobile app-based platform, and introduce innovative features such as virtual wardrobe management, personalized style profiles, and virtual styling workshops to engage and empower young professionals in their fashion journey.
 - Successfully orchestrated multi-channel communication strategies, including inbound marketing tactics, a Campus Ambassador Program, and an interactive Wardrobe Workshop and Runway event to achieve increase in brand awareness among the target audience and reshaping perceptions of styling services as accessible and cost-effective tools for career success.
 
-  [Presentation I: 6 Cs and Audience Recommendation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [6 Cs and Audience Recommendation Presentation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
-  [Presentation:Go-To-Market Recommendations](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [Go-To-Market Recommendations Presentation](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-**Multicultural Marketing and Business Development - The Kee Group internship**
+**Multicultural Marketing and Business Development Intern @ The Kee Group**
 - Led a cross-functional team of 9 professionals in assessing the real estate firm's strategy, conducting industry-wide analysis, and evaluating financial performance. Delivered actionable recommendations that enhanced the firm's competitiveness.
 - Championed the development of a comprehensive marketing plan aimed at increasing brand awareness across multiple channels. This involved identifying key differentiators, implementing automation strategies, and integrating a relocation strategy to align with the current business model.
 - Drove strategic initiatives to strengthen the firm's social media presence and expand market reach. Successfully built the firm's SME reputation on social media, identified target markets, and curated recommendations for technology improvements related to services and operations.
@@ -27,17 +27,22 @@ Business Administration, BA; Marketing & Information Systems
 ### Information Systems Projects
 *Technical Skills Utilized: HTML, R Script, Python, MySQL*
 
-**Networks & Cybersecurity - Blockchain Analysis for Tesla**
+**Networks & Cybersecurity - Blockchain and Bitcoin Analysis for Tesla**
 - Led a team in assessing Tesla's blockchain utilization, identifying cryptocurrency risks, and proposing risk mitigation strategies.
 - Demonstrated strong project management skills, including timeline adherence, team coordination, and early completion.
 - Effective communication and leadership displayed from project proposal through sustainable recommendations development.
+
+  [Presentation](https://docs.google.com/document/d/1YRDbKF7brjPUSoJ-X0JIc16WADMAayZNrzfGtU73Aas/edit?usp=sharing)
+  
+  [Report](https://docs.google.com/presentation/d/18E-z3jdXZQTv7Qy_27OE4OkZrCGLh5fAqada1KymBuE/edit?usp=sharing)
 
 
 **Customer Analytics - Paid Search Strategy Analysis**
 - Collaborated with a team to assess a ringtone company's paid search strategy, using linear regressions to optimize 50,000 keywords and Google ad spend.
 - Identified that search volume significantly impacts click-through rates (CTR) and revenue, emphasizing the importance of specific keyword targeting for improved results.
 - Provided actionable recommendations for ongoing keyword analysis to enhance profitability and paid search effectiveness.
-  [Report containing Model Summaries]()
+
+  [Report](https://docs.google.com/presentation/d/18E-z3jdXZQTv7Qy_27OE4OkZrCGLh5fAqada1KymBuE/edit?usp=sharing)
 
 **Fundamentals of Application Programming - Various Python Applications**
 - Applied fundamental programming concepts to develop interactive Python applications for business use, emphasizing modularization and structure programming.- 
@@ -47,20 +52,21 @@ Business Administration, BA; Marketing & Information Systems
 - Assisted a comprehensive data analysis project examining Airbnb's 2022 listings and bookings, overcoming data cleaning challenges, optimizing SQL queries for efficiency, and ensuring data accuracy.
 - Extracted valuable insights, such as city trends, seasonality patterns, ratings analysis, and the impact of property features on bookings, to help Airbnb understand revenue generation opportunities and enhance guest experiences.
 - Provided actionable recommendations, including informing hosts of seasonality trends, promoting non-seasonal activities through partnerships, and conducting due diligence on reviews to boost profitability and customer satisfaction.
+  
   [Presentation](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
 
-  [Report]()
+  [Report](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
 
 **Systems Analysis & Design - eBay Website Improvements**
 - Conducted an in-depth analysis of eBay's recommendation algorithm and product page layout.
 - Identified two major problems related to recommendation accuracy and product page layout.
 - Proposed improvements, including the implementation of market basket analysis and collaborative filtering, to enhance the recommendation algorithm and optimize the product page layout for a better user experience.
-  []()
 
 **Machine Learning and Business Analytics - Maximizing Philanthropic Investments For Human Development**
 - Conducted data-driven analysis of global human development using the HDI dataset, guiding philanthropic investors toward impactful decisions.
 - Employed data preparation and linear regression techniques to identify key factors affecting Human Development Index (HDI) scores.
 - Recommended investment areas for philanthropic investors, including improving life expectancy, mean years of schooling, and reducing maternal mortality, based on data-driven insights.
+  
   [Presentation](https://www.canva.com/design/DAFkcdUIdNM/Quw8sbqvtrAtnbyve8o77g/edit?utm_content=DAFkcdUIdNM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
   [Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
@@ -99,6 +105,8 @@ Business Administration, BA; Marketing & Information Systems
 - Assessed FDA regulations and market entry challenges, advising immediate licensing to secure capital and focus resources on R&D capabilities.
 - Identified future opportunities, highlighting potential vertical integration into manufacturing to enhance competitiveness within the biotechnology industry.
 
+  [Presentation]()
+  [Report]()
   
 **Business Finance - The Stock Market Case**
 - Collaborated in a team to select and manage a $100,000 investment portfolio of four U.S. exchange-traded stocks, adhering to strict investment criteria and limited allocations.
