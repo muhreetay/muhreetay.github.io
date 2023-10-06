@@ -1,8 +1,9 @@
 # Business Administration Graduate
 
 ### Education
-Bachelor of Arts
-Major: Marketing and Information Systems
+Business Administration, BA
+(Marketing & Information Systems)
+
 
 ### Information Systems Projects
 Intro to Information Systems - Orion’s Place Mobile Application
