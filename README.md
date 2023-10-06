@@ -7,7 +7,7 @@ Business Administration, BA
 
 
 ### Information Systems Projects
-####Technical Skills Utilized: HTML, R Script, Python, MySQL
+Technical Skills Utilized: HTML, R Script, Python, MySQL
 
 Intro to Information Systems - Orion’s Place Mobile Application
 - Conceptualized mobile app for Orin’s café to enhance customer satisfaction and operational efficiency for a competitive edge.
