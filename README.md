@@ -44,8 +44,8 @@ Business Administration, BA; Marketing & Information Systems
 - Assisted a comprehensive data analysis project examining Airbnb's 2022 listings and bookings, overcoming data cleaning challenges, optimizing SQL queries for efficiency, and ensuring data accuracy.
 - Extracted valuable insights, such as city trends, seasonality patterns, ratings analysis, and the impact of property features on bookings, to help Airbnb understand revenue generation opportunities and enhance guest experiences.
 - Provided actionable recommendations, including informing hosts of seasonality trends, promoting non-seasonal activities through partnerships, and conducting due diligence on reviews to boost profitability and customer satisfaction.
-  []()
-  []()
+  [Presentation](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
+  [Report]()
 
 **Systems Analysis & Design - eBay Website Improvements**
 - Conducted an in-depth analysis of eBay's recommendation algorithm and product page layout.
@@ -57,8 +57,8 @@ Business Administration, BA; Marketing & Information Systems
 - Conducted data-driven analysis of global human development using the HDI dataset, guiding philanthropic investors toward impactful decisions.
 - Employed data preparation and linear regression techniques to identify key factors affecting Human Development Index (HDI) scores.
 - Recommended investment areas for philanthropic investors, including improving life expectancy, mean years of schooling, and reducing maternal mortality, based on data-driven insights.
-  []()
-  []()
+  [Presentation](https://www.canva.com/design/DAFkcdUIdNM/Quw8sbqvtrAtnbyve8o77g/edit?utm_content=DAFkcdUIdNM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
 
 **Intro to Information Systems - Orion’s Place Mobile Application**
 - Conceptualized mobile app for Orin’s café to enhance customer satisfaction and operational efficiency for a competitive edge.
