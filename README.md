@@ -9,9 +9,9 @@ Business Administration, BA; Marketing & Information Systems
 - Employed syndicated research and qualitative insights to identify a market need, design a mobile app-based platform, and introduce innovative features such as virtual wardrobe management, personalized style profiles, and virtual styling workshops to engage and empower young professionals in their fashion journey.
 - Successfully orchestrated multi-channel communication strategies, including inbound marketing tactics, a Campus Ambassador Program, and an interactive Wardrobe Workshop and Runway event to achieve increase in brand awareness among the target audience and reshaping perceptions of styling services as accessible and cost-effective tools for career success.
 
-  [>> 6 Cs and Audience Recommendation Presentation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [> 6 Cs and Audience Recommendation Presentation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
-  [>> Go-To-Market Recommendations Presentation](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [> Go-To-Market Recommendations Presentation](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **Multicultural Marketing and Business Development Intern @ The Kee Group**
 - Led a cross-functional team of 9 professionals in assessing the real estate firm's strategy, conducting industry-wide analysis, and evaluating financial performance. Delivered actionable recommendations that enhanced the firm's competitiveness.
