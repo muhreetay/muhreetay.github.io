@@ -3,7 +3,7 @@
 ### Education
 Business Administration, BA
 
-(Marketing & Information Systems)
+*Marketing & Information Systems*
 
 
 ### Information Systems Projects
