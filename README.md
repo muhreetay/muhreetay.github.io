@@ -38,7 +38,7 @@ Business Administration, BA; Marketing & Information Systems
 
   [Presentation](https://docs.google.com/document/d/1YRDbKF7brjPUSoJ-X0JIc16WADMAayZNrzfGtU73Aas/edit?usp=sharing)
   
-  [Report](https://docs.google.com/presentation/d/18E-z3jdXZQTv7Qy_27OE4OkZrCGLh5fAqada1KymBuE/edit?usp=sharing)
+  [Written Report](https://docs.google.com/presentation/d/18E-z3jdXZQTv7Qy_27OE4OkZrCGLh5fAqada1KymBuE/edit?usp=sharing)
 
 
 **Customer Analytics - Paid Search Strategy Analysis**
@@ -46,7 +46,7 @@ Business Administration, BA; Marketing & Information Systems
 - Identified that search volume significantly impacts click-through rates (CTR) and revenue, emphasizing the importance of specific keyword targeting for improved results.
 - Provided actionable recommendations for ongoing keyword analysis to enhance profitability and paid search effectiveness.
 
-  [Report](https://docs.google.com/presentation/d/18E-z3jdXZQTv7Qy_27OE4OkZrCGLh5fAqada1KymBuE/edit?usp=sharing)
+  [Written Report](https://docs.google.com/presentation/d/18E-z3jdXZQTv7Qy_27OE4OkZrCGLh5fAqada1KymBuE/edit?usp=sharing)
 
 **Fundamentals of Application Programming - Various Python Applications**
 - Applied fundamental programming concepts to develop interactive Python applications for business use, emphasizing modularization and structure programming.- 
@@ -59,7 +59,7 @@ Business Administration, BA; Marketing & Information Systems
   
   [Presentation](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
 
-  [Report](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
+  [Written Report](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
 
 **Systems Analysis & Design - eBay Website Improvements**
 - Conducted an in-depth analysis of eBay's recommendation algorithm and product page layout to improve functionality and customer experience.
@@ -74,7 +74,7 @@ Business Administration, BA; Marketing & Information Systems
   
   [Presentation](https://www.canva.com/design/DAFkcdUIdNM/Quw8sbqvtrAtnbyve8o77g/edit?utm_content=DAFkcdUIdNM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-  [Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
+  [Written Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
 
 **Intro to Information Systems - Orion’s Place Mobile Application**
 - Conceptualized a mobile app for Orin’s café by defining specifications, creating mockups, and a promotional plan to enhance customer satisfaction and gain competitive edge.
@@ -109,7 +109,7 @@ Business Administration, BA; Marketing & Information Systems
 
   [Presentation](https://docs.google.com/presentation/d/1ZUDHOtbytXFMwURuiDrRb8p-NOrnDRKC5VyVx7OvQiM/edit?usp=sharing)
   
-  [Report](https://docs.google.com/document/d/1Q2nzvsZk94Pmmcfr-YZhBjKMFnetDPBTpjcx8QUUBlI/edit?usp=sharing)
+  [Written Report](https://docs.google.com/document/d/1Q2nzvsZk94Pmmcfr-YZhBjKMFnetDPBTpjcx8QUUBlI/edit?usp=sharing)
   
 **Business Finance - The Stock Market Case**
 - Collaborated in a team to select and manage a $100,000 investment portfolio of four U.S. exchange-traded stocks, adhering to strict investment criteria and limited allocations.
