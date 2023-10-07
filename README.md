@@ -62,7 +62,7 @@ Business Administration, BA; Marketing & Information Systems
   [Written Report](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
 
 **Systems Analysis & Design - eBay Website Improvements**
-- Conducted an in-depth analysis of eBay's recommendation algorithm and product page layout to improve functionality and customer experience.
+- Conducted an in-depth analysis of eBay's recommendation algorithm and product page layout, by creating an implementation network diagram, process visualization, and entity relationship diagram, to improve functionality and customer experience.
 - Identified problems and proposed improvements, including the implementation of machine learning techniques, to optimize the recommendation algorithm and enhance the product page layout for a better user experience.
 
   [Presentation](https://docs.google.com/presentation/d/1sx3IEQFGQCooXCIHM72tfI_Am3VoBg-Lm9Z0LEm2WQM/edit?usp=sharing)
