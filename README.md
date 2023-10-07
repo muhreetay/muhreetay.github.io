@@ -77,14 +77,9 @@ Business Administration, BA; Marketing & Information Systems
   [Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
 
 **Intro to Information Systems - Orion’s Place Mobile Application**
-- Conceptualized a mobile app for Orin’s café by defining specifications, identifying the target audience, and creating mockups to gain a competitive edge and raise revenue.
-- Defined specifications, like mobile ordering, transparent pricing, estimated wait times, and a loyalty program to enhance customer satisfaction.
-- Planned a promotional strategy using key performance indicators to attract users and measure the success of the app.
+- Conceptualized a mobile app for Orin’s café by defining specifications, creating mockups, and a promotional plan to enhance customer satisfaction and gain competitive edge.
+- Utilized marketing strategies, including a launch event, in-app feedback surveys, and key performance indicators to measure success.
 
-  
-- Developed a mobile app for Orin's café with features like mobile ordering, transparent pricing, estimated wait times, and a loyalty program to enhance customer satisfaction and gain a competitive edge.
-- Defined specifications, identified target audience, created mockups and a promotional strategy.
-- Planned a promotional strategy using marketing concepts to attract users and measure success through key performance indicators.
   
 ### Marketing Projects
 
@@ -98,12 +93,10 @@ Business Administration, BA; Marketing & Information Systems
 - Proposed a direct distribution strategy for the hypothetical app extension, outlining plans to leverage existing customer relationships and digital platforms for optimal user engagement.
 - Designed a comprehensive promotional campaign concept, utilizing social media, email marketing, and in-app notifications in a hypothetical scenario to drive awareness and encourage user-generated content.
 
-**Consumer Behavior - 10,000 Villages Social Media Campaign**
-- Led a team to achieve key goals in a Social Media Campaign for Ten Thousand Villages, including enhancing storytelling, incentivizing direct social media shopping, and maintaining brand consistency.
-- Implemented surveys and conducted secondary analysis of social media trends and shopping habits to address critical consumer behavior questions. Insights were instrumental in shaping campaign strategies.
-- Focused on understanding the preferences and challenges faced by younger consumers, effectively tailoring campaign content and pricing strategies to attract and engage this demographic.
-
-
+**Consumer Behavior - Ten Thousand Villages Social Media Campaign**
+- Led a team to achieve key goals in a Social Media Campaign for Ten Thousand Villages, including enhancing storytelling, incentivizing direct social media shopping, and maintaining brand consistency to increase revenue and brand awareness.
+- Conducted surveys and secondary analysis of social media trends and shopping habits to gain insights crucial in shaping campaign strategies.
+- Tailored campaign content and pricing strategies by understanding preferences and challenges to attract and engage younger consumers.
 
 
 
@@ -150,8 +143,7 @@ Business Administration, BA; Marketing & Information Systems
 - Proposed two innovative solutions, a morning check-in program and an employee-curated menu, to address identified issues. Outlined a detailed implementable plan and a feedback mechanism to measure the effectiveness of the changes, highlighting benefits for both Starbucks and its employees.
 
 **Business Government & Society - NBA China Controversy Analysis**
-- Conducted a comprehensive analysis of the 2019 Daryl Morey controversy, including stakeholder identification, power assessment, and potential coalitions.
-- Presented stakeholder map for actionable insights, highlighting strategies to manage high-power stakeholders while maintaining engagement and addressing emerging issues.
+- Conducted stakeholder analysis for the 2019 Daryl Morey controversy, providing recommendations for effective management of high-power stakeholders while addressing emerging issues.
 - Evaluated the NBA's response in light of its corporate social responsibility values and economic interests, emphasizing the challenge of balancing principles with profitability in a globalized sports industry.
 
 **Chicano Studies - Diverse Cultural Awareness Fundraising Project**
