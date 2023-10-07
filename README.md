@@ -53,21 +53,22 @@ Business Administration, BA; Marketing & Information Systems
 - Proficiently used event-driven programming techniques and data/file structures to enhance application functionality.
 
 **Database Management - MySQL Data Analysis Project for Airbnb**
-- Assisted a comprehensive data analysis project examining Airbnb's 2022 listings and bookings, overcoming data cleaning challenges, optimizing SQL queries for efficiency, and ensuring data accuracy.
-- Extracted valuable insights, such as city trends, seasonality patterns, ratings analysis, and the impact of property features on bookings, to help Airbnb understand revenue generation opportunities and enhance guest experiences.
-- Provided actionable recommendations, including informing hosts of seasonality trends, promoting non-seasonal activities through partnerships, and conducting due diligence on reviews to boost profitability and customer satisfaction.
+- Assisted a comprehensive data analysis project examining Airbnb's 2022 listings and bookings through SQL queries and data visualizations to understand how Airbnb can generate more revenue.
+- Extracted valuable insights, such as city trends, seasonality patterns, rating analysis, and the impact of property features on bookings, to identify potential opportunities and threats.
+- Provided actionable recommendations to Airbnb stakeholders, including informing hosts of seasonality trends, promoting non-seasonal activities through partnerships, and conducting due diligence on reviews to boost profitability and customer satisfaction.
   
   [Presentation](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
 
   [Report](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
 
 **Systems Analysis & Design - eBay Website Improvements**
-- Conducted an in-depth analysis of eBay's recommendation algorithm and product page layout.
-- Identified two major problems related to recommendation accuracy and product page layout.
-- Proposed improvements, including the implementation of market basket analysis and collaborative filtering, to enhance the recommendation algorithm and optimize the product page layout for a better user experience.
+- Conducted an in-depth analysis of eBay's recommendation algorithm and product page layout to improve functionality and customer experience.
+- Identified problems and proposed improvements, including the implementation of machine learning techniques, to optimize the recommendation algorithm and enhance the product page layout for a better user experience.
+
+  [Presentation](https://docs.google.com/presentation/d/1sx3IEQFGQCooXCIHM72tfI_Am3VoBg-Lm9Z0LEm2WQM/edit?usp=sharing)
 
 **Machine Learning and Business Analytics - Maximizing Philanthropic Investments For Human Development**
-- Conducted data-driven analysis of global human development using the HDI dataset, guiding philanthropic investors toward impactful decisions.
+- Conducted data-driven analysis of global human development, using the HDI dataset, to guide philanthropic investors toward impactful decisions.
 - Employed data preparation and linear regression techniques to identify key factors affecting Human Development Index (HDI) scores.
 - Recommended investment areas for philanthropic investors, including improving life expectancy, mean years of schooling, and reducing maternal mortality, based on data-driven insights.
   
@@ -76,10 +77,14 @@ Business Administration, BA; Marketing & Information Systems
   [Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
 
 **Intro to Information Systems - Orion’s Place Mobile Application**
-- Conceptualized mobile app for Orin’s café to enhance customer satisfaction and operational efficiency for a competitive edge.
-- Implemented features such as mobile ordering, transparent pricing, estimated wait times, and a loyalty program to boost customer satisfaction.
-- Utilized marketing strategies, including a launch event, raffle promotions, and in-app feedback surveys, to attract users and measure success through key performance indicators.
+- Conceptualized a mobile app for Orin’s café by defining specifications, identifying the target audience, and creating mockups to gain a competitive edge and raise revenue.
+- Defined specifications, like mobile ordering, transparent pricing, estimated wait times, and a loyalty program to enhance customer satisfaction.
+- Planned a promotional strategy using key performance indicators to attract users and measure the success of the app.
 
+  
+- Developed a mobile app for Orin's café with features like mobile ordering, transparent pricing, estimated wait times, and a loyalty program.
+- Defined specifications, identified target audience, created mockups, and planned a promotional strategy to enhance customer satisfaction and gain a competitive edge.
+- Planned a promotional strategy using marketing concepts to attract users and measure success through key performance indicators.
   
 ### Marketing Projects
 
