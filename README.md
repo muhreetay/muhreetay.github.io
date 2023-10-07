@@ -82,8 +82,8 @@ Business Administration, BA; Marketing & Information Systems
 - Planned a promotional strategy using key performance indicators to attract users and measure the success of the app.
 
   
-- Developed a mobile app for Orin's café with features like mobile ordering, transparent pricing, estimated wait times, and a loyalty program.
-- Defined specifications, identified target audience, created mockups, and planned a promotional strategy to enhance customer satisfaction and gain a competitive edge.
+- Developed a mobile app for Orin's café with features like mobile ordering, transparent pricing, estimated wait times, and a loyalty program to enhance customer satisfaction and gain a competitive edge.
+- Defined specifications, identified target audience, created mockups and a promotional strategy.
 - Planned a promotional strategy using marketing concepts to attract users and measure success through key performance indicators.
   
 ### Marketing Projects
@@ -114,18 +114,27 @@ Business Administration, BA; Marketing & Information Systems
 - Assessed FDA regulations and market entry challenges, advising immediate licensing to secure capital and focus resources on R&D capabilities.
 - Identified future opportunities, highlighting potential vertical integration into manufacturing to enhance competitiveness within the biotechnology industry.
 
-  [Presentation]()
-  [Report]()
+  [Presentation](https://docs.google.com/presentation/d/1ZUDHOtbytXFMwURuiDrRb8p-NOrnDRKC5VyVx7OvQiM/edit?usp=sharing)
+  
+  [Report](https://docs.google.com/document/d/1Q2nzvsZk94Pmmcfr-YZhBjKMFnetDPBTpjcx8QUUBlI/edit?usp=sharing)
   
 **Business Finance - The Stock Market Case**
 - Collaborated in a team to select and manage a $100,000 investment portfolio of four U.S. exchange-traded stocks, adhering to strict investment criteria and limited allocations.
 - Applied financial research skills to make informed investment decisions and demonstrated proficiency in tracking portfolio performance, while adhering to trading rules.
 - Gained practical experience in stock market dynamics, returns, and risk management, furthering understanding of finance and investment principles.
 
+  [Written Report](https://docs.google.com/document/d/1i6dwhqWkSeJXoq0qh5ofvkmHSBuh_lldkPp0_RroG1s/edit?usp=sharing)
+
+  [Calculations Spreadsheet](https://docs.google.com/spreadsheets/d/1FsVFXjVVq5o4uduipnISscwDBBQ-yyIUamQ2KSXDf4s/edit?usp=sharing)
+
 **Business Finance - Capital Budgeting Case**
 - Utilized Excel to create a robust financial model for Nvidia, incorporating DCF and multiples-based valuation methods to estimate equity value and stock price.
 - Demonstrated proficiency in forecasting cash flows, conducting sensitivity analysis, and evaluating growth assumptions within the Excel-based financial model.
 - Effectively synthesized complex financial data using Excel, arriving at a reasoned range of Nvidia's stock price, showcasing analytical and valuation skills.
+
+  [Written Report](https://docs.google.com/document/d/1nfdLx35RXxY7IBu68Txz2jdwjUog5afn8S1-azTJZFE/edit?usp=sharing)
+  
+  [Financial Models Spreadsheet](https://docs.google.com/spreadsheets/d/1D1mN7lU-8G9pM5mL3AsFDeW1Hdv5hXq7/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
 
 
 **Introduction to Global Business - Country Analysis Report**
@@ -133,12 +142,12 @@ Business Administration, BA; Marketing & Information Systems
 - Led the assessment of Colombia's economic, geographic, social, and political environments, providing insights into potential barriers to entry and growth opportunities for retail.
 - Advised a strategic 50:50 joint venture entry, contingent on resolving political, infrastructure, and financial instability, while highlighting Colombia's future growth potential.
 
-  [Report](https://docs.google.com/document/d/1EPczoSSXmQPmL0YEuLiK8aGizvNjzDSccqkQAlVKnng/edit?usp=sharing)
+  [Written Report](https://docs.google.com/document/d/1EPczoSSXmQPmL0YEuLiK8aGizvNjzDSccqkQAlVKnng/edit?usp=sharing)
 
 **Leadership & Organizational Behavior - Starbucks Employee Retention Project**
 - Researched and assessed Starbucks, through primary and secondary research, identifying critical employee dissatisfaction issues.
 - Applied Organizational Behavior (OB) theories, specifically value percept theory and job characteristics theory, to diagnose the root causes of employee dissatisfaction.
-- Proposed two innovative solutions - a morning check-in program and an employee-curated menu - to address identified issues. Outlined a detailed implementable plan and a feedback mechanism to measure the effectiveness of the changes, highlighting benefits for both Starbucks and its employees.
+- Proposed two innovative solutions, a morning check-in program and an employee-curated menu, to address identified issues. Outlined a detailed implementable plan and a feedback mechanism to measure the effectiveness of the changes, highlighting benefits for both Starbucks and its employees.
 
 **Business Government & Society - NBA China Controversy Analysis**
 - Conducted a comprehensive analysis of the 2019 Daryl Morey controversy, including stakeholder identification, power assessment, and potential coalitions.
@@ -148,4 +157,4 @@ Business Administration, BA; Marketing & Information Systems
 **Chicano Studies - Diverse Cultural Awareness Fundraising Project**
 - Baked conchas symbolizing diverse Mexican roots, raising $200 by selling them and donating proceeds to Black Lives Matter, promoting awareness of underrepresented contributions.
 - Crafted an impactful essay highlighting Afro-Mexican and Indigenous influences often overlooked in Mexican culture, fostering dialogue on racial issues within Latinx/e/o/a households. Enhanced accessibility by attaching the essay via QR code for easy sharing.
-- Exceeded expectations by leveraging multiple channels to promote the project, engaging the community through social media and personal networks to raise funds and awareness for Black Lives Matter.
+- Exceeded expectations by leveraging multiple channels to promote the project, and engaging the community through social media and personal networks to raise funds and awareness.
