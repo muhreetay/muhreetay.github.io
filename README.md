@@ -5,32 +5,36 @@ Business Administration, BA; Marketing & Information Systems
 
 ### Internship Work
 **Startup Marketing Consultant Intern @ Glamhive Inc.**
-- Developed a strategic Go-to-Market Plan for Glamhive, a fashion-tech startup, targeting a niche demographic of young post-graduate females entering the corporate world in major cities, resulting in a clear positioning statement, comprehensive market analysis, and scalable growth strategy.
-- Employed syndicated research and qualitative insights to identify a market need, design a mobile app-based platform, and introduce innovative features such as virtual wardrobe management, personalized style profiles, and virtual styling workshops to engage and empower young professionals in their fashion journey.
-- Successfully orchestrated multi-channel communication strategies, including inbound marketing tactics, a Campus Ambassador Program, and an interactive Wardrobe Workshop and Runway event to achieve increase in brand awareness among the target audience and reshaping perceptions of styling services as accessible and cost-effective tools for career success.
+- Developed a  Go-to-Market Strategy for Glamhive, a fashion-tech startup, targeting young post-graduate females in major cities, resulting in a clear positioning statement, market analysis, and scalable growth strategy.
+- Utilized syndicated research and qualitative insights to identify a market need and introduce innovative app features that encompass a whole-product to meet market needs.
+- Orchestrated multi-channel communication strategies, including inbound marketing tactics, to increase brand awareness and reshape perceptions of styling services.
 
-  [> 6 Cs and Audience Recommendation Presentation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [- 6 Cs and Audience Recommendation Presentation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
-  [> Go-To-Market Recommendations Presentation](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [- Go-To-Market Recommendations Presentation](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
-**Multicultural Marketing and Business Development Intern @ The Kee Group**
-- Led a cross-functional team of 9 professionals in assessing the real estate firm's strategy, conducting industry-wide analysis, and evaluating financial performance. Delivered actionable recommendations that enhanced the firm's competitiveness.
-- Championed the development of a comprehensive marketing plan aimed at increasing brand awareness across multiple channels. This involved identifying key differentiators, implementing automation strategies, and integrating a relocation strategy to align with the current business model.
-- Drove strategic initiatives to strengthen the firm's social media presence and expand market reach. Successfully built the firm's SME reputation on social media, identified target markets, and curated recommendations for technology improvements related to services and operations.
+  [Written Report](https://docs.google.com/document/d/10Y7TutWxmHNKXdQhXWo6A2HfiMHPVSGXJVvluNXCXac/edit?usp=sharing)
 
-  [Marketing Plan](https://www.canva.com/design/DAFcvoUCALs/EVMSk_C4wTqNU9JtnXuZKQ/edit?utm_content=DAFcvoUCALs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+**Marketing and Business Development Intern @ The Kee Group**
+- Led a team of six to assess and enhance the real estate firm's strategy and competitiveness by conducting an industry-wide analysis and evaluating financial performance.
+- Developed a comprehensive 50-page marketing plan to increase brand awareness across multiple channels. This involved identifying key differentiators, implementing automation strategies, and integrating a relocation strategy to align with the current business model.
+- Strengthened social media presence and expanded market reach by identifying a new target market and recommending technology improvements related to services and operations.
+
+  [Marketing Plan](https://docs.google.com/document/d/1uMGGGfg-FfwI-oSOpyMT4Qw5wpaFnpcC2AZasZRv2uM/edit?usp=sharing)
   
   [Presentation](https://www.canva.com/design/DAFcvoUCALs/EVMSk_C4wTqNU9JtnXuZKQ/edit?utm_content=DAFcvoUCALs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
-  [Written Report](https://www.canva.com/design/DAFcvoUCALs/EVMSk_C4wTqNU9JtnXuZKQ/edit?utm_content=DAFcvoUCALs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [Written Report](https://docs.google.com/document/d/10U2BdJyAhtRSraCr9WGTmk0n8P7seD5J0gneA6YSEwE/edit?usp=sharing)
 
 ### Information Systems Projects
 *Technical Skills Utilized: HTML, R Script, Python, MySQL*
 
 **Networks & Cybersecurity - Blockchain and Bitcoin Analysis for Tesla**
-- Led a team in assessing Tesla's blockchain utilization, identifying cryptocurrency risks, and proposing risk mitigation strategies.
-- Demonstrated strong project management skills, including timeline adherence, team coordination, and early completion.
-- Effective communication and leadership displayed from project proposal through sustainable recommendations development.
+- Led a team in assessing Tesla's blockchain utilization, identifying cryptocurrency risks, and proposing risk mitigation strategies to maintain a positive brand reputation.
+- Leveraged project management and leadership skills to create project workflow, coordinate team strengths, and motivate the team to exceed project expectations by proposing sustainable recommendations.
+
+- Spearheaded project proposal, concept creation, and workflow timeline, leveraging project management and leadership skills to guide the team towards exceeding project expectations.
+- Motivated and inspired team members to recommend sustainable cryptocurrency investments that aligned with the company's values, utilizing strong project management and leadership abilities to effectively coordinate team members' strengths.
 
   [Presentation](https://docs.google.com/document/d/1YRDbKF7brjPUSoJ-X0JIc16WADMAayZNrzfGtU73Aas/edit?usp=sharing)
   
