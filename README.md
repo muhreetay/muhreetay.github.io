@@ -9,9 +9,9 @@ Business Administration, BA; Marketing & Information Systems
 - Utilized syndicated research and qualitative insights to identify a market need and introduce innovative app features that encompass a whole-product to meet market needs.
 - Orchestrated multi-channel communication strategies, including inbound marketing tactics, to increase brand awareness and reshape perceptions of styling services.
 
-  [- 6 Cs and Audience Recommendation Presentation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [6 Cs and Audience Recommendation Presentation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
   
-  [- Go-To-Market Recommendations Presentation](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [Go-To-Market Recommendations Presentation](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
   [Written Report](https://docs.google.com/document/d/10Y7TutWxmHNKXdQhXWo6A2HfiMHPVSGXJVvluNXCXac/edit?usp=sharing)
 
