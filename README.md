@@ -63,12 +63,12 @@ Business Administration, BA; Marketing & Information Systems
 
 **Systems Analysis & Design - eBay Website Improvements**
 - Conducted an in-depth analysis of eBay's recommendation algorithm and product page layout, by creating an implementation network diagram, process visualization, and entity relationship diagram, to improve functionality and customer experience.
-- Identified problems and proposed improvements, including the implementation of machine learning techniques, to optimize the recommendation algorithm and enhance the product page layout for a better user experience.
+- Identified problems and proposed improvements, including implementing machine learning techniques, to optimize the recommendation algorithm and enhance the product page layout for a better user experience.
 
   [Presentation](https://docs.google.com/presentation/d/1sx3IEQFGQCooXCIHM72tfI_Am3VoBg-Lm9Z0LEm2WQM/edit?usp=sharing)
 
 **Machine Learning and Business Analytics - Maximizing Philanthropic Investments For Human Development**
-- Conducted data-driven analysis of global human development, using the HDI dataset, to guide philanthropic investors toward impactful decisions.
+- Conducted data-driven global human development analysis using machine learning techniques, such as linear models, to guide philanthropic investors toward impactful decisions.
 - Employed data preparation and linear regression techniques to identify key factors affecting Human Development Index (HDI) scores.
 - Recommended investment areas for philanthropic investors, including improving life expectancy, mean years of schooling, and reducing maternal mortality, based on data-driven insights.
   
@@ -77,16 +77,15 @@ Business Administration, BA; Marketing & Information Systems
   [Written Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
 
 **Intro to Information Systems - Orion’s Place Mobile Application**
-- Conceptualized a mobile app for Orin’s café by defining specifications, creating mockups, and a promotional plan to enhance customer satisfaction and gain competitive edge.
+- Conceptualized a mobile app for Orin’s café by defining specifications, creating mockups, and a promotional plan to enhance customer satisfaction and gain a competitive edge.
 - Utilized marketing strategies, including a launch event, in-app feedback surveys, and key performance indicators to measure success.
 
   
 ### Marketing Projects
 
 **Influencer Marketing: Trader Joe’s Influencer Marketing Plan**
-- Developed an 8-part influencer marketing plan for Trader Joe's, the hypothetical client, covering key aspects of influencer marketing strategy.
+- Developed an 8-part influencer marketing plan for Trader Joe's, covering key aspects of influencer marketing strategy.
 - Executed influencer selection, contract negotiation, and campaign design, utilizing analytics to enhance marketing effectiveness.
-- Collaborated effectively within a team to create a comprehensive influencer marketing strategy, showcasing strong project management skills.
 
 **Marketing Concepts - Planet Fitness New Product Marketing Plan**
 - Conceptualized a user-friendly workout log tracker app extension for a fitness franchise, outlining features to enhance the gym experience for members.
