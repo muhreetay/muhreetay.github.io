@@ -42,7 +42,7 @@ Business Administration, BA; Marketing & Information Systems
 **Database Management - MySQL Data Analysis Project for Airbnb**
 - Assisted a comprehensive data analysis project examining Airbnb's 2022 listings and bookings through SQL queries and data visualizations to understand how Airbnb can generate more revenue.
 - Extracted valuable insights, such as city trends, seasonality patterns, rating analysis, and the impact of property features on bookings, to identify potential opportunities and threats.
-- Provided actionable recommendations to Airbnb stakeholders, including informing hosts of seasonality trends, promoting non-seasonal activities through partnerships, and conducting due diligence on reviews to boost profitability and customer satisfaction.
+- Provided recommendations to Airbnb stakeholders, including informing hosts of seasonality trends, promoting non-seasonal activities through partnerships, and conducting due diligence on reviews to boost profitability and customer satisfaction.
   
   [Presentation](https://docs.google.com/presentation/d/1-CVk9I2zHAAobyZAevUx8gKnnlO67CTQ/edit?usp=sharing&ouid=102744811598647107274&rtpof=true&sd=true)
 
@@ -58,8 +58,8 @@ Business Administration, BA; Marketing & Information Systems
 
 
 **Systems Analysis & Design - eBay Website Improvements**
-- Conducted an in-depth analysis of eBay's recommendation algorithm and product page layout, by creating an implementation network diagram, process visualization, and entity relationship diagram, to improve functionality and customer experience.
-- Identified problems and proposed improvements, including implementing machine learning techniques, to optimize the recommendation algorithm and enhance the product page layout for a better user experience.
+- Conducted analysis of eBay's recommendation algorithm and product page layout, by creating an implementation network diagram, process visualization, and entity relationship diagram, to improve functionality and customer experience.
+- Identified problems and proposed improvements, including implementing machine learning techniques to optimize the recommendation algorithm and enhance the product page layout for a better user experience.
 
   [Presentation](https://docs.google.com/presentation/d/1sx3IEQFGQCooXCIHM72tfI_Am3VoBg-Lm9Z0LEm2WQM/edit?usp=sharing)
 
@@ -87,14 +87,14 @@ Business Administration, BA; Marketing & Information Systems
 - Executed influencer selection, contract negotiation, and campaign design, utilizing analytics to enhance marketing effectiveness.
 
 **Consumer Behavior - Ten Thousand Villages Social Media Campaign**
-- Led a team to achieve key goals in a Social Media Campaign for Ten Thousand Villages, including enhancing storytelling, incentivizing direct social media shopping, and maintaining brand consistency to increase revenue and brand awareness.
-- Conducted surveys and secondary analysis of social media trends and shopping habits to gain insights crucial in shaping campaign strategies.
+- Led team to achieve key goals in a social media campaign for Ten Thousand Villages, including enhancing storytelling, incentivizing direct social media shopping, and maintaining brand consistency to increase brand awareness.
+- Conducted surveys and analyzed social media trends and shopping habits to shape campaign strategies.
 - Tailored campaign content and pricing strategies by understanding preferences and challenges to attract and engage younger consumers.
   
 **Marketing Concepts - Planet Fitness New Product Marketing Plan**
-- Conceptualized a user-friendly workout log tracker app extension for a fitness franchise, outlining features to enhance the gym experience for members.
-- Proposed a direct distribution strategy for the hypothetical app extension, outlining plans to leverage existing customer relationships and digital platforms for optimal user engagement.
-- Designed a comprehensive promotional campaign concept, utilizing social media, email marketing, and in-app notifications in a hypothetical scenario to drive awareness and encourage user-generated content.
+- Developed a user-friendly workout log tracker app extension for a fitness franchise, with features to improve the gym experience for members.
+- Implemented a direct distribution strategy leveraging existing customer relationships and digital platforms to enhance user engagement.
+- Devised a comprehensive promotional campaign across various channels to increase awareness and encourage user-generated content.
 
 
 
@@ -137,6 +137,6 @@ Business Administration, BA; Marketing & Information Systems
 
 
 **Chicano Studies - Diverse Cultural Awareness Fundraising Project**
-- Baked goods symbolizing diverse Mexican roots, raising $200 by selling them and donating proceeds to Black Lives Matter, promoting awareness of underrepresented contributions.
-- Crafted an impactful essay highlighting Afro-Mexican and Indigenous influences often overlooked in Mexican culture, fostering dialogue on racial issues within Latinx/e/o/a households. Enhanced accessibility by attaching the essay via QR code for easy sharing.
-- Exceeded expectations by leveraging multiple channels to promote the project, and engaging the community through social media and personal networks to raise funds and awareness.
+- Raised $200 by selling baked goods and donated to Black Lives Matter to support underrepresented contributions.
+- Created an essay highlighting Afro-Mexican and Indigenous influences in Mexican culture, with a shareable QR code to increase accessibility and encourage conversations on racial issues within Latinx/e/o/a households.
+- Utilized multiple channels to promote the project, and engaged with the community through social media and personal networks to raise funds and awareness.
