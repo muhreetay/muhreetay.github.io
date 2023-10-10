@@ -38,12 +38,6 @@ Business Administration, BA; Marketing & Information Systems
 
   [Written Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
   
-**Customer Analytics - Paid Search Strategy Analysis**
-- Collaborated with a team to assess a ringtone company's paid search strategy, using linear regressions to optimize 50,000 keywords and Google ad spend.
-- Identified that search volume significantly impacts click-through rates (CTR) and revenue, emphasizing the importance of specific keyword targeting for improved results.
-- Provided actionable recommendations for ongoing keyword analysis to enhance profitability and paid search effectiveness.
-
-  [Written Report](https://docs.google.com/presentation/d/18E-z3jdXZQTv7Qy_27OE4OkZrCGLh5fAqada1KymBuE/edit?usp=sharing)
 
 **Database Management - MySQL Data Analysis Project for Airbnb**
 - Assisted a comprehensive data analysis project examining Airbnb's 2022 listings and bookings through SQL queries and data visualizations to understand how Airbnb can generate more revenue.
@@ -81,6 +75,13 @@ Business Administration, BA; Marketing & Information Systems
   
 ### Marketing Projects
 
+**Customer Analytics - Paid Search Strategy Analysis**
+- Collaborated with a team to assess a ringtone company's paid search strategy, using linear regressions to optimize 50,000 keywords and Google ad spend.
+- Identified that search volume significantly impacts click-through rates (CTR) and revenue, emphasizing the importance of specific keyword targeting for improved results.
+- Provided actionable recommendations for ongoing keyword analysis to enhance profitability and paid search effectiveness.
+
+  [Written Report](https://docs.google.com/presentation/d/18E-z3jdXZQTv7Qy_27OE4OkZrCGLh5fAqada1KymBuE/edit?usp=sharing)
+  
 **Influencer Marketing: Trader Joe’s Influencer Marketing Plan**
 - Developed an 8-part influencer marketing plan for Trader Joe's, covering key aspects of influencer marketing strategy.
 - Executed influencer selection, contract negotiation, and campaign design, utilizing analytics to enhance marketing effectiveness.
