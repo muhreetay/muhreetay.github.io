@@ -69,7 +69,7 @@ Business Administration, BA; Marketing & Information Systems
 
 
 **Intro to Information Systems - Orion’s Place Mobile Application**
-- Conceptualized a mobile app for Orin’s café by defining specifications, creating mockups, and a promotional plan to enhance customer satisfaction and gain a competitive edge.
+- Conceptualized a mobile app for Orin’s café by defining specifications, creating mockups in Figma, and creating a promotional plan, to ultimately enhance customer satisfaction and competitive catch-up.
 - Utilized marketing strategies, including a launch event, in-app feedback surveys, and key performance indicators to measure success.
 
   
