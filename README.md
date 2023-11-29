@@ -9,9 +9,9 @@ Business Administration, BA; Marketing & Information Systems
 - Utilized syndicated research and qualitative insights to identify a market need and introduce innovative app features that encompass a whole-product to meet market needs.
 - Orchestrated multi-channel communication strategies, including inbound marketing tactics, to increase brand awareness and reshape perceptions of styling services.
 
-  [6 Cs and Audience Recommendation Presentation](https://www.canva.com/design/DAFhRVphfl4/YezKvbYlAGAqlMwvjGOmPA/edit?utm_content=DAFhRVphfl4&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [Presentation I: Audience Recommendation](https://www.canva.com/design/DAFhRVphfl4/p0in4U1Jvae_mlSHn8X-hw/view)
   
-  [Go-To-Market Recommendations Presentation](https://www.canva.com/design/DAFkaDN4Peo/HqotungPr6w9HBA1sv6v8Q/edit?utm_content=DAFkaDN4Peo&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [Presentation II: Go-To-Market Recommendations](https://www.canva.com/design/DAFkaDN4Peo/QP4_Cnl0mZhp0WcejIl4PQ/view)
 
   [Written Report](https://docs.google.com/document/d/10Y7TutWxmHNKXdQhXWo6A2HfiMHPVSGXJVvluNXCXac/edit?usp=sharing)
 
@@ -22,7 +22,7 @@ Business Administration, BA; Marketing & Information Systems
 
   [Marketing Plan](https://docs.google.com/document/d/1uMGGGfg-FfwI-oSOpyMT4Qw5wpaFnpcC2AZasZRv2uM/edit?usp=sharing)
   
-  [Presentation](https://www.canva.com/design/DAFcvoUCALs/EVMSk_C4wTqNU9JtnXuZKQ/edit?utm_content=DAFcvoUCALs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [Presentation](https://www.canva.com/design/DAFcvoUCALs/cWld1fjvBKZXkTS8omSIfw/view)
   
   [Written Report](https://docs.google.com/document/d/10U2BdJyAhtRSraCr9WGTmk0n8P7seD5J0gneA6YSEwE/edit?usp=sharing)
 
@@ -34,7 +34,7 @@ Business Administration, BA; Marketing & Information Systems
 - Employed data preparation and linear regression techniques to identify key factors affecting Human Development Index (HDI) scores.
 - Recommended investment areas for philanthropic investors, including improving life expectancy, mean years of schooling, and reducing maternal mortality, based on data-driven insights.
   
-  [Presentation](https://www.canva.com/design/DAFkcdUIdNM/Quw8sbqvtrAtnbyve8o77g/edit?utm_content=DAFkcdUIdNM&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+  [Presentation](https://www.canva.com/design/DAFkcdUIdNM/ENavQKUjHKBDrBQaibCyEA/view)
 
   [Written Report](https://docs.google.com/document/d/1FcU5CY9jNi42QLSHPNq2GScyLTgbq5apblncVDDva20/edit?usp=sharing)
   
